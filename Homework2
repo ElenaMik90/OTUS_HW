@@ -75,4 +75,4 @@ public class HomeworkEmikhalevich {
             }
         System.out.println("Результат: правильно " + correctCount + ", неправильно " + wrongCount + "\n"+ Answers1 + "\n"+ Answers2 + "\n"+ Answers3 + "\n"+ Answers4);
     }
-    }1
+    }
